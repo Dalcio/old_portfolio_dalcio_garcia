@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dalciogarcia/static/css/main.d676b68f.chunk.css",
+    "main.js": "/dalciogarcia/static/js/main.c2fcaf90.chunk.js",
+    "main.js.map": "/dalciogarcia/static/js/main.c2fcaf90.chunk.js.map",
+    "runtime-main.js": "/dalciogarcia/static/js/runtime-main.1b4fe5c8.js",
+    "runtime-main.js.map": "/dalciogarcia/static/js/runtime-main.1b4fe5c8.js.map",
+    "static/css/2.4819d237.chunk.css": "/dalciogarcia/static/css/2.4819d237.chunk.css",
+    "static/js/2.b557d7df.chunk.js": "/dalciogarcia/static/js/2.b557d7df.chunk.js",
+    "static/js/2.b557d7df.chunk.js.map": "/dalciogarcia/static/js/2.b557d7df.chunk.js.map",
+    "index.html": "/dalciogarcia/index.html",
+    "precache-manifest.bf7709681f893719c0fe9400544fd772.js": "/dalciogarcia/precache-manifest.bf7709681f893719c0fe9400544fd772.js",
+    "service-worker.js": "/dalciogarcia/service-worker.js",
+    "static/css/2.4819d237.chunk.css.map": "/dalciogarcia/static/css/2.4819d237.chunk.css.map",
+    "static/css/main.d676b68f.chunk.css.map": "/dalciogarcia/static/css/main.d676b68f.chunk.css.map",
+    "static/js/2.b557d7df.chunk.js.LICENSE.txt": "/dalciogarcia/static/js/2.b557d7df.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dalciogarcia/static/media/background.3aa75db7.jpg",
+    "static/media/dalcio-260w.jpg": "/dalciogarcia/static/media/dalcio-260w.4368568b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b4fe5c8.js",
+    "static/css/2.4819d237.chunk.css",
+    "static/js/2.b557d7df.chunk.js",
+    "static/css/main.d676b68f.chunk.css",
+    "static/js/main.c2fcaf90.chunk.js"
+  ]
+}
