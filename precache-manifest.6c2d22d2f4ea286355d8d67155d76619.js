@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "202c77ff26dcaba6cd0075698aba33b6",
+    "revision": "d05090bbb4f0ed188efa57c860853c18",
     "url": "/dalciogarcia/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dalciogarcia/static/css/2.4819d237.chunk.css"
   },
   {
-    "revision": "81e2c1714fd061da7e9d",
+    "revision": "5a680da1a42d41ba660e",
     "url": "/dalciogarcia/static/css/main.a852e211.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dalciogarcia/static/js/2.08f195db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81e2c1714fd061da7e9d",
-    "url": "/dalciogarcia/static/js/main.4af241ee.chunk.js"
+    "revision": "5a680da1a42d41ba660e",
+    "url": "/dalciogarcia/static/js/main.e7bd62df.chunk.js"
   },
   {
     "revision": "098e18c3e8cb437c934c",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dalciogarcia/static/media/dalcio-260w.d46a31bf.jpg"
   },
   {
-    "revision": "1c87bb80e44794c0b4e630e295faa231",
-    "url": "/dalciogarcia/static/media/dalciogarcia.1c87bb80.pdf"
+    "revision": "0a104a0c19a352c3941da32fea0f0762",
+    "url": "/dalciogarcia/static/media/dalciogarcia.0a104a0c.pdf"
   }
 ]);
