@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dalciogarcia/static/css/main.a852e211.chunk.css",
-    "main.js": "/dalciogarcia/static/js/main.baa73292.chunk.js",
-    "main.js.map": "/dalciogarcia/static/js/main.baa73292.chunk.js.map",
+    "main.js": "/dalciogarcia/static/js/main.42990c54.chunk.js",
+    "main.js.map": "/dalciogarcia/static/js/main.42990c54.chunk.js.map",
     "runtime-main.js": "/dalciogarcia/static/js/runtime-main.1b4fe5c8.js",
     "runtime-main.js.map": "/dalciogarcia/static/js/runtime-main.1b4fe5c8.js.map",
     "static/css/2.4819d237.chunk.css": "/dalciogarcia/static/css/2.4819d237.chunk.css",
     "static/js/2.3a6fd1a5.chunk.js": "/dalciogarcia/static/js/2.3a6fd1a5.chunk.js",
     "static/js/2.3a6fd1a5.chunk.js.map": "/dalciogarcia/static/js/2.3a6fd1a5.chunk.js.map",
     "index.html": "/dalciogarcia/index.html",
-    "precache-manifest.7f75bc1d3d51433ce080318979765220.js": "/dalciogarcia/precache-manifest.7f75bc1d3d51433ce080318979765220.js",
+    "precache-manifest.1063043f5341bc2ef91d12a288a20330.js": "/dalciogarcia/precache-manifest.1063043f5341bc2ef91d12a288a20330.js",
     "service-worker.js": "/dalciogarcia/service-worker.js",
     "static/css/2.4819d237.chunk.css.map": "/dalciogarcia/static/css/2.4819d237.chunk.css.map",
     "static/css/main.a852e211.chunk.css.map": "/dalciogarcia/static/css/main.a852e211.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.4819d237.chunk.css",
     "static/js/2.3a6fd1a5.chunk.js",
     "static/css/main.a852e211.chunk.css",
-    "static/js/main.baa73292.chunk.js"
+    "static/js/main.42990c54.chunk.js"
   ]
 }
