@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dalciogarcia/static/css/main.a852e211.chunk.css",
-    "main.js": "/dalciogarcia/static/js/main.623dcc42.chunk.js",
-    "main.js.map": "/dalciogarcia/static/js/main.623dcc42.chunk.js.map",
+    "main.js": "/dalciogarcia/static/js/main.52c9eb1a.chunk.js",
+    "main.js.map": "/dalciogarcia/static/js/main.52c9eb1a.chunk.js.map",
     "runtime-main.js": "/dalciogarcia/static/js/runtime-main.1b4fe5c8.js",
     "runtime-main.js.map": "/dalciogarcia/static/js/runtime-main.1b4fe5c8.js.map",
     "static/css/2.4819d237.chunk.css": "/dalciogarcia/static/css/2.4819d237.chunk.css",
     "static/js/2.08f195db.chunk.js": "/dalciogarcia/static/js/2.08f195db.chunk.js",
     "static/js/2.08f195db.chunk.js.map": "/dalciogarcia/static/js/2.08f195db.chunk.js.map",
     "index.html": "/dalciogarcia/index.html",
-    "precache-manifest.faae7e6741ef75de3f26b64862d49df2.js": "/dalciogarcia/precache-manifest.faae7e6741ef75de3f26b64862d49df2.js",
+    "precache-manifest.4b1c802dbe5efc7b51f571079f6401f1.js": "/dalciogarcia/precache-manifest.4b1c802dbe5efc7b51f571079f6401f1.js",
     "service-worker.js": "/dalciogarcia/service-worker.js",
     "static/css/2.4819d237.chunk.css.map": "/dalciogarcia/static/css/2.4819d237.chunk.css.map",
     "static/css/main.a852e211.chunk.css.map": "/dalciogarcia/static/css/main.a852e211.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.4819d237.chunk.css",
     "static/js/2.08f195db.chunk.js",
     "static/css/main.a852e211.chunk.css",
-    "static/js/main.623dcc42.chunk.js"
+    "static/js/main.52c9eb1a.chunk.js"
   ]
 }
