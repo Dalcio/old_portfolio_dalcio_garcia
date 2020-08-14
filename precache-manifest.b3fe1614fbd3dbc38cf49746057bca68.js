@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d05090bbb4f0ed188efa57c860853c18",
+    "revision": "c0cba19a4a4629aa33cf34a9e2e428e9",
     "url": "/dalciogarcia/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dalciogarcia/static/css/2.4819d237.chunk.css"
   },
   {
-    "revision": "5a680da1a42d41ba660e",
+    "revision": "ef84d2d96264ffc6dccd",
     "url": "/dalciogarcia/static/css/main.a852e211.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dalciogarcia/static/js/2.08f195db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a680da1a42d41ba660e",
-    "url": "/dalciogarcia/static/js/main.e7bd62df.chunk.js"
+    "revision": "ef84d2d96264ffc6dccd",
+    "url": "/dalciogarcia/static/js/main.42fbb6bb.chunk.js"
   },
   {
     "revision": "098e18c3e8cb437c934c",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dalciogarcia/static/media/background.710f1ee9.jpg"
   },
   {
-    "revision": "d46a31bf48d5369b7930cc85571f1436",
-    "url": "/dalciogarcia/static/media/dalcio-260w.d46a31bf.jpg"
+    "revision": "e7362db47946cf9c9f61a6811e01285b",
+    "url": "/dalciogarcia/static/media/dalcio-260w.e7362db4.jpg"
   },
   {
     "revision": "0a104a0c19a352c3941da32fea0f0762",
